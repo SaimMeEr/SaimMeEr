@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family: Arial, sans-serif; color: #333;">Hi 👋, I'm Sameer Ahmad Mir</h1>
 ![Banner](https://github.com/SaimMeEr/SaimMeEr/raw/main/Sameer%20Ahmad%20Mir.gif)
-
 <h3 align="center" style="color: #4A90E2; font-weight: bold;">A passionate Full Stack Developer | Skilled in Building Scalable Web Applications | Open to Opportunities</h3>
 
 <ul style="list-style-type: none; padding: 0;">
