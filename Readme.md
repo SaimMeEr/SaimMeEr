@@ -62,13 +62,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimmeer&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimmeer&theme=radical&hide_border=true" width="47%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimmeer&layout=compact&theme=radical&hide_border=true" width="47%" />
 </p>
@@ -79,7 +72,7 @@
 ### 🟩 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=saimmeer&theme=github-compact" alt="GitHub Contribution Graph" />
+  <img src="https://github-contribution-graph.vercel.app/api/?username=SaimMeEr&theme=github-compact" alt="GitHub Contribution Graph" />
 </p>
 
 
@@ -100,5 +93,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimmeer&label=👀 Profile Views&color=blueviolet&style=flat" alt="saimmeer" />
+  <img src="https://komarev.com/ghpvc/?username=SaimMeEr&label=👀 Profile Views&color=blueviolet&style=flat" alt="SaimMeEr" />
 </p>
