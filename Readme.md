@@ -74,6 +74,14 @@
 </p>
 
 ---
+---
+
+### 🟩 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.vercel.app/api/?username=saimmeer&theme=github-compact" alt="GitHub Contribution Graph" />
+</p>
+
 
 ### 🧠 Fun Projects
 
