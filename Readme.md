@@ -54,16 +54,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,ts,tailwind,bootstrap,git,github,vscode,firebase" />
+### 🚀 Frontend
+
+<p>
+  <img src="https://camo.githubusercontent.com/f19b394f8b2d86110d72784687bace1d3107679a2a5dc72ef8c8b80c746e17c6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c72656163742c7265647578" alt="Frontend Skills" />
 </p>
 
----
+### 🏗 Backend
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimmeer&layout=compact&theme=radical&hide_border=true" width="47%" />
+<p>
+  <img src="https://camo.githubusercontent.com/d9ee9fd349768e0342273767c645da8352591307649e26e9840431cb19fdd792/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c657870726573732c6d6f6e676f64622c6d7973716c2c6669726562617365" alt="Backend Skills" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://camo.githubusercontent.com/475b20c6f15d187b46d8e8ab6c7fccc366deee3af8c1b953be6f88a45ff08e93/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6769742c6769746875622c7673636f64652c706f73746d616e2c6669676d61" alt="Tools" />
 </p>
 
 ---
