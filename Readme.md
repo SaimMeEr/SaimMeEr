@@ -107,5 +107,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaimMeEr&label=👀 Profile Views&color=blueviolet&style=flat" alt="SaimMeEr" />
+  <img src="https://komarev.com/ghpvc/?username=saimmeer&label=👀 Profile Views&color=blueviolet&style=flat" alt="saimmeer" />
 </p>
