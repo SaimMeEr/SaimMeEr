@@ -67,13 +67,26 @@
 </p>
 
 ---
----
-
-### 🟩 GitHub Contribution Graph
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api/?username=SaimMeEr&theme=github-compact" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saimmeer&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimmeer&theme=radical" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimmeer&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saimmeer&theme=react-dark" />
+</p>
+
+
 
 
 
