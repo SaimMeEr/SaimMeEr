@@ -4,9 +4,9 @@
 </p>
 
 <!-- Typing Title -->
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Sameer+Ahmad+Mir;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+To+Opportunities&center=true&width=1000&height=60&color=0CF3F3&vCenter=true&size=35" />
-</h1>
+</p>
 
 <!-- Intro -->
 <p align="center">
@@ -15,10 +15,10 @@
 
 <!-- Resume & Portfolio -->
 <p align="center">
-  <a href="https://samb-portfolio.netlify.app/" target="_blank">
+  <a href="https://samb-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/file/d/1M1UXemwa4BldI8FT-l-CYVgLReBFjbps/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1M1UXemwa4BldI8FT-l-CYVgLReBFjbps/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄 Resume-green?style=for-the-badge" />
   </a>
   <a href="mailto:meersameer305@gmail.com">
@@ -41,13 +41,13 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/saim-me-er/" target="_blank">
+  <a href="https://linkedin.com/in/saim-me-er/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://codesandbox.io/u/saimmeer" target="_blank">
+  <a href="https://codesandbox.io/u/saimmeer">
     <img src="https://img.shields.io/badge/CodeSandbox-Live%20Demos-purple?style=for-the-badge&logo=codesandbox" />
   </a>
-  <a href="https://instagram.com/saim_meer_official" target="_blank">
+  <a href="https://instagram.com/saim_meer_official">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
