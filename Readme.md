@@ -105,7 +105,6 @@
 > **"Code not just to work, but to wow!"**
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saimmeer&label=👀 Profile Views&color=blueviolet&style=flat" alt="saimmeer" />
+  <img src="https://komarev.com/ghpvc/?username=saimmeer&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
